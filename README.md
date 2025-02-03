@@ -1,4 +1,4 @@
-# Nmap Scanner GUI
+# Web Network Scanner GUI
 
 ## Overview
 This project is a graphical user interface (GUI) application for scanning networks using Nmap. It is built using `customtkinter` and integrates various features, including Firebase authentication, database storage, and email notifications.
