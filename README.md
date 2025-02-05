@@ -37,7 +37,7 @@ cd qscanner
 
 2. **Run the Application**
 ```sh
-python fufu.py
+python main_app.py
 ```
 
 3. **Login/Signup**
@@ -60,7 +60,7 @@ python fufu.py
 ## File Structure
 ```
 /your_project_directory
-│-- fufu.py                 # Main application script
+│-- main_app.py                 # Main application script
 │-- dust/                   # Contains required assets (fonts, executables, etc.)
 │-- sources/                # Stores images and UI elements
 │-- README.md               # Documentation file
@@ -69,7 +69,7 @@ python fufu.py
 ## Firebase Setup
 1. Create a Firebase project.
 2. Download the service account key (`scann.json`) and place it in the `dust/` folder.
-3. Update the `databaseURL` in `fufu.py` to match your Firebase database.
+3. Update the `databaseURL` in `main_app.py` to match your Firebase database.
 
 ## Contributing
 Feel free to contribute to this project! To get started:
