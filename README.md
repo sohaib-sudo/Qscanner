@@ -82,5 +82,5 @@ Feel free to contribute to this project! To get started:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
-- **Your Name** - [GitHub Profile](https://github.com/YOUR_USERNAME/)
+- **Your Name** - [GitHub Profile](https://github.com/sohaib-sudo/)
 
