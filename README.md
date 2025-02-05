@@ -173,5 +173,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 - **sohaib-sudo** - [GitHub Profile](https://github.com/sohaib-sudo/)
-- **check out my linkedin** - [linkedin Profile]([https://github.com/sohaib-sudo/](https://www.linkedin.com/in/sohaib-abd-albeset-a5a47034a/))
+- **check out my linkedin** - [linkedin Profile]((https://www.linkedin.com/in/sohaib-abd-albeset-a5a47034a/))
 
