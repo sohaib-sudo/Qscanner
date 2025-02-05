@@ -31,8 +31,8 @@ pip install customtkinter firebase-admin googlesearch-python reportlab pillow se
 ## Installation & Usage
 1. **Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/sohaib-sudo/qscanner.git
+cd qscanner
 ```
 
 2. **Run the Application**
