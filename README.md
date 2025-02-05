@@ -11,19 +11,19 @@
 #### **2. Prompting the User to Install the Requirements**
 - A **loading animation** runs while the app checks for Requirements.
 - If not found, an **"Install" button** appears for the user to start the installation.
-![if not installed](https://github.com/user-attachments/assets/be09cb21-60ed-465c-b7cb-aa511fa85495)
+![if not installed](https://github.com/user-attachments/assets/8f16dd5e-1aa3-4363-a83f-c76096bc03d0)
 
 #### **3. Installing Requirements**
 - When the user clicks the **Install** button, the app attempts to install Requirements automatically.
 - It runs an **Requirements installer file** located in the app’s **"dust"** folder.
 - If the installation is successful, a message appears saying **"Installation completed. Please restart the application."**
-![installing nmap](https://github.com/user-attachments/assets/3224cd91-15d3-4111-812c-e713360ba932)
+![installing nmap](https://github.com/user-attachments/assets/b371382b-5f53-47c9-8b4b-7061c62d8653)
 
 #### **4. Restarting the App**
 - After installation, the app asks the user to **restart** to check if Nmap is now installed.
 - When restarted, the app runs the check again.
 - If Requirements is now installed, the user can proceed with scanning.
-![restart the app](https://github.com/user-attachments/assets/10bb7c53-6717-4724-9402-5a4ae243e941)
+![restart the app](https://github.com/user-attachments/assets/f30b6819-3aeb-4580-8a2c-5bcd019735d2)
 
 #### **5. Handling Errors**
 - If **Requirements cannot be found** in the "dust" folder, an error message appears.
@@ -78,7 +78,7 @@
     - Port, State, Service, Version, Status, Update Link
 - The app also displays a **message box notification** indicating the scan results were saved successfully.
 - 
-![another scan pdf](https://github.com/user-attachments/assets/a20d9aaf-c5f6-46f4-a84f-54d6b3562ee3)
+![another scan pdf_LI](https://github.com/user-attachments/assets/afe26ef7-a793-4ea5-ae8b-09ed8b2d89c4)
 
 #### **6. Uploading Scan Results to GitHub (Future Improvement Needed):**
 - Currently, the app **saves results to Firebase**.
